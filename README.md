@@ -1,2 +1,2 @@
 # Spot-Yt-Dl
-Spotify Downloader using ytmp3 and Spotify API
+Spotify Downloader using ytmp3
